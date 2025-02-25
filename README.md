@@ -1,8 +1,22 @@
-# React + Vite
+# Employee Management System (EMS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview  
+The **Employee Management System (EMS)** is a web-based application built using **React.js, Tailwind CSS, and a database** to streamline employee data management. It enables organizations to efficiently handle employee records, including adding, updating, deleting, and viewing employee details.
 
-Currently, two official plugins are available:
+## ✨ Features  
+- 📋 **Employee Data Management** – Add, edit, delete, and view employee details.  
+- 🔍 **Search & Filter** – Easily find employees using search functionality.  
+- 📊 **Dashboard** – Visual representation of employee statistics.  
+- 💾 **Database Integration** – Stores employee details in a structured format.  
+- 🎨 **Modern UI** – Built with **React.js** and styled using **Tailwind CSS**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** NodeJs 
+- **Database:** MySQL  
+
+
+## 📌 Future Enhancements <br> 
+🔐 Role-based access control <br> 
+📧 Email notifications <br> 
+📊 Employee performance tracking <br> 
